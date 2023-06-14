@@ -4,6 +4,7 @@ public class Main {
 
         System.out.printf("しりとり");
         System.out.println("りせっと");
+        System.out.println("といざらす");
 
 
 
